@@ -1,4 +1,4 @@
 # Elders-Seva-This page is helpful Elder people who has biometric failure in ID's.
 Go to terminal of Elders Seva folder and type "npm run dev".
-If it's not running install node js in your system.
+If it's not running install node js in your system.If any further questions u can connect me through insta my id is "phani._.sharma".
 Any further problems screenshot it and ask ai it will help u out to install some specifications.
