@@ -1,6 +1,6 @@
 # Elders Seva - National Biometric Portal
 
-**Google Lakecity Hackathon 2026 Submission**
+**Hackathon 2026 Submission**
 
 ## Overview
 Elders Seva is a localized, offline-capable Progressive Web App (PWA) designed to solve the "Biometric Obsolescence" problem for senior citizens. It allows officials to perform offline biometric analysis and manual overrides without needing a stable internet connection.
@@ -28,4 +28,5 @@ If any other related to the topic u can contact me through insta my id is "phani
     npm run build
     npm run preview
     ```
+
 
