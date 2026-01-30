@@ -1,0 +1,9 @@
+Aadhaar,Name,State,District,Pincode,Age,BioAge,BiometricType,Status
+123456789012,John Doe,Maharashtra,Mumbai,400001,65,68,Fingerprint,Failure
+123456789013,Jane Smith,Karnataka,Bangalore,560001,70,72,Fingerprint,Success
+123456789012,John Doe,Maharashtra,Mumbai,400001,65,68,Fingerprint,Failure
+987654321098,Raj Kumar,Delhi,New Delhi,110001,62,65,Fingerprint,Failure
+123456789014,Mary Johnson,Tamil Nadu,Chennai,600001,68,71,Fingerprint,Success
+987654321098,Raj Kumar,Delhi,New Delhi,110001,62,65,Fingerprint,Failure
+555666777888,Amit Singh,Uttar Pradesh,Lucknow,226001,75,78,Fingerprint,Failure
+123456789015,Sita Patel,Gujarat,Ahmedabad,380001,69,72,Fingerprint,Success
