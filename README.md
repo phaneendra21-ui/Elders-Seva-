@@ -4,6 +4,8 @@
 
 ## Overview
 Elders Seva is a localized, offline-capable Progressive Web App (PWA) designed to solve the "Biometric Obsolescence" problem for senior citizens. It allows officials to perform offline biometric analysis and manual overrides without needing a stable internet connection.
+If u need "node_modules" you can download from this link "https://drive.google.com/file/d/1iZq9bmm-JURYw-X68f3wej6VxtBPGLOF/view?usp=drivesdk".
+If any other related to the topic u can contact me through insta my id is "phani._.sharma".
 
 ## Key Features
 - **Offline PWA**: Full functionality without internet.
@@ -26,3 +28,4 @@ Elders Seva is a localized, offline-capable Progressive Web App (PWA) designed t
     npm run build
     npm run preview
     ```
+
